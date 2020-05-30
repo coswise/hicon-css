@@ -1,11 +1,16 @@
 @font-face {
-  font-family: "hicons" !important;
+  font-family: 'hicons';
+  src:  url('fonts/hicons.eot?q3dzdg');
+  src:  url('fonts/hicons.eot?q3dzdg#iefix') format('embedded-opentype'),
+    url('fonts/hicons.ttf?q3dzdg') format('truetype'),
+    url('fonts/hicons.woff?q3dzdg') format('woff'),
+    url('fonts/hicons.woff2?q3dzdg') format('woff2'),
+    url('fonts/hicons.svg?q3dzdg#hicons') format('svg');
   font-weight: normal;
   font-style: normal;
-  src: url("fonts/hicons.eot");
-  src: url("fonts/hicons.eot") format("embedded-opentype"), url("fonts/hicons.woff2") format("woff2"), url("fonts/hicons.woff") format("woff"), url("fonts/hicons.ttf") format("truetype"),
-      url("fonts/hicons.svg?#hicons") format("svg");
+  font-display: block;
 }
+
 .h {
   font-family: "hicons" !important;
   font-weight: normal;
