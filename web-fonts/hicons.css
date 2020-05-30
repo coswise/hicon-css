@@ -2,9 +2,9 @@
   font-family: "hicons" !important;
   font-weight: normal;
   font-style: normal;
-  src: url("../web-fonts/fonts/hicons.eot");
-  src: url("../web-fonts/fonts/hicons.eot") format("embedded-opentype"), url("../web-fonts/fonts/hicons.woff2") format("woff2"), url("../web-fonts/fonts/hicons.woff") format("woff"), url("../web-fonts/fonts/hicons.ttf") format("truetype"),
-      url("../web-fonts/fonts/hicons.svg?#boxicons") format("svg");
+  src: url("fonts/hicons.eot");
+  src: url("fonts/hicons.eot") format("embedded-opentype"), url("fonts/hicons.woff2") format("woff2"), url("fonts/hicons.woff") format("woff"), url("fonts/hicons.ttf") format("truetype"),
+      url("fonts/hicons.svg?#hicons") format("svg");
 }
 .h {
   font-family: "hicons" !important;
