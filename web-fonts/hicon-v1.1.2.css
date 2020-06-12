@@ -42,6 +42,21 @@
   text-align: center;
 }
 
+.h-maximise-frame:before {
+  content: "\e9f2";
+}
+.h-minimise-frame:before {
+  content: "\e9fe";
+}
+.h-not-equal-to:before {
+  content: "\e928";
+}
+.h-refresh-acw:before {
+  content: "\e993";
+}
+.h-skip-next:before {
+  content: "\ea75";
+}
 .h-apple:before {
   content: "\e900";
 }
@@ -161,9 +176,6 @@
 }
 .h-pie-chart:before {
   content: "\e927";
-}
-.h-refresh-cw-1:before {
-  content: "\e928";
 }
 .h-refresh-cw:before {
   content: "\e929";
@@ -492,9 +504,6 @@
 .h-code-1:before {
   content: "\e992";
 }
-.h-code:before {
-  content: "\e993";
-}
 .h-codepen:before {
   content: "\e994";
 }
@@ -768,9 +777,6 @@
 .h-map:before {
   content: "\e9f1";
 }
-.h-maximise-2:before {
-  content: "\e9f2";
-}
 .h-maximise:before {
   content: "\e9f3";
 }
@@ -803,9 +809,6 @@
 }
 .h-microphone:before {
   content: "\e9fd";
-}
-.h-minimise-2:before {
-  content: "\e9fe";
 }
 .h-minimise:before {
   content: "\e9ff";
@@ -942,9 +945,6 @@
 .h-save-1:before {
   content: "\ea2b";
 }
-.h-save:before {
-  content: "\ea2c";
-}
 .h-scissors:before {
   content: "\ea2d";
 }
@@ -959,9 +959,6 @@
 }
 .h-share:before {
   content: "\ea31";
-}
-.h-shield-off-1:before {
-  content: "\ea32";
 }
 .h-shield-off:before {
   content: "\ea33";
@@ -1063,6 +1060,7 @@
 .h-tape .path2:before {
   content: "\ea86";
   margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
 .h-tape .path3:before {
   content: "\ea87";
@@ -1072,6 +1070,7 @@
 .h-tape .path4:before {
   content: "\ea88";
   margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
 .h-tape .path5:before {
   content: "\ea89";
@@ -1184,9 +1183,6 @@
 }
 .h-volume:before {
   content: "\ea74";
-}
-.h-vynil:before {
-  content: "\ea75";
 }
 .h-whatsapp:before {
   content: "\ea76";

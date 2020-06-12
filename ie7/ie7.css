@@ -1,3 +1,18 @@
+.h-maximise-frame {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f2;');
+}
+.h-minimise-frame {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fe;');
+}
+.h-not-equal-to {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe928;');
+}
+.h-refresh-acw {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe993;');
+}
+.h-skip-next {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea75;');
+}
 .h-apple {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
 }
@@ -117,9 +132,6 @@
 }
 .h-pie-chart {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe927;');
-}
-.h-refresh-cw-1 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe928;');
 }
 .h-refresh-cw {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe929;');
@@ -448,9 +460,6 @@
 .h-code-1 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe992;');
 }
-.h-code {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe993;');
-}
 .h-codepen {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe994;');
 }
@@ -724,9 +733,6 @@
 .h-map {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f1;');
 }
-.h-maximise-2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f2;');
-}
 .h-maximise {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9f3;');
 }
@@ -759,9 +765,6 @@
 }
 .h-microphone {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fd;');
-}
-.h-minimise-2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9fe;');
 }
 .h-minimise {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ff;');
@@ -898,9 +901,6 @@
 .h-save-1 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2b;');
 }
-.h-save {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2c;');
-}
 .h-scissors {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea2d;');
 }
@@ -915,9 +915,6 @@
 }
 .h-share {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea31;');
-}
-.h-shield-off-1 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea32;');
 }
 .h-shield-off {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea33;');
@@ -1116,9 +1113,6 @@
 }
 .h-volume {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea74;');
-}
-.h-vynil {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea75;');
 }
 .h-whatsapp {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea76;');
