@@ -42,6 +42,37 @@
   text-align: center;
 }
 
+
+.h-beer:before {
+  content: "\ea2c";
+}
+.h-bread:before {
+  content: "\ea32";
+}
+.h-burger:before {
+  content: "\ea8b";
+}
+.h-cake:before {
+  content: "\ea8c";
+}
+.h-candy:before {
+  content: "\ea8d";
+}
+.h-cookie:before {
+  content: "\ea8e";
+}
+.h-donut:before {
+  content: "\ea8f";
+}
+.h-mushroom:before {
+  content: "\ea90";
+}
+.h-pizza:before {
+  content: "\ea91";
+}
+.h-tea-bag:before {
+  content: "\ea92";
+}
 .h-maximise-frame:before {
   content: "\e9f2";
 }
@@ -1060,7 +1091,6 @@
 .h-tape .path2:before {
   content: "\ea86";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .h-tape .path3:before {
   content: "\ea87";
@@ -1070,7 +1100,6 @@
 .h-tape .path4:before {
   content: "\ea88";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .h-tape .path5:before {
   content: "\ea89";

@@ -13,6 +13,16 @@
 		el.innerHTML = '<span style="font-family: \'hicons\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'h-beer': '&#xea2c;',
+		'h-bread': '&#xea32;',
+		'h-burger': '&#xea8b;',
+		'h-cake': '&#xea8c;',
+		'h-candy': '&#xea8d;',
+		'h-cookie': '&#xea8e;',
+		'h-donut': '&#xea8f;',
+		'h-mushroom': '&#xea90;',
+		'h-pizza': '&#xea91;',
+		'h-tea-bag': '&#xea92;',
 		'h-maximise-frame': '&#xe9f2;',
 		'h-minimise-frame': '&#xe9fe;',
 		'h-not-equal-to': '&#xe928;',
